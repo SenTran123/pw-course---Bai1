@@ -1,4 +1,4 @@
 Câu lệnh để cài đặt email và name là gì?
-- CEmai: git config --global user.email "youremail@example.com"
+- Emai: git config --global user.email "youremail@example.com"
 - Name: git config --global user.name "Udemy - Jena"
 
