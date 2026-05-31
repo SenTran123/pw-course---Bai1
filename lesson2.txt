@@ -1,0 +1,6 @@
+Giải thích câu lệnh:
+git init -> Khởi tạo git trong thư mục 
+git add <file_nam> -> Stage 1 file cụ thể
+git add . -> Stage tất cả các file thay đổi
+git commit -m"message" -> commit
+
